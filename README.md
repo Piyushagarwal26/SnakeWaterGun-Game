@@ -11,3 +11,9 @@
 ## Project Creators
 - Piyush Agarwal (RA2111047010152)
 - Anam Zehra (RA2111047010164)
+## Project Details
+- Subject: PPS (Programming for Problem Solving)
+- Faculty: Siva R,Krishnaveni S
+- B.tech - AI C
+- Batch 2021-25
+- SRMIST, KTR
