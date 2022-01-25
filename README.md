@@ -8,3 +8,6 @@
 - Inputted choice of user
 - Random choice of computer
 - Result of the game
+## Project Creators
+- Piyush Agarwal (RA2111047010152)
+- Anam Zehra (RA2111047010164)
