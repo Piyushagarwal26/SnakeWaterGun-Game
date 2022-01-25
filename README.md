@@ -4,3 +4,7 @@
 - This project will ask user to input their choice among snake,water and gun
 - Code is comprised of if else loop structure
 - Programming Language: C
+## Project Outputs
+- Inputted choice of user
+- Random choice of computer
+- Result of the game
